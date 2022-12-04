@@ -51,6 +51,7 @@ Open the terminal at "CSE6120-project" directory level.
 * Approximation
 * Local Search 1 - Fast VC
 * Local Search 2 - Simmulated Annealing
+  
 More information can be found on the white paper and as _docstrings_ of respective .py files inside the 'Code' Directory.
 
 
